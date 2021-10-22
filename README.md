@@ -1,3 +1,30 @@
+The main objective of this project was to explore the new technologies in web animation <br>
+
+Technology is used in this project 👇👇👇 <br>
+1) React Web animation API <br>
+2) useState <br>
+3) useRef <br>
+
+Resources used in these project are 👇👇👇 <br>
+https://www.npmjs.com/package/@wellyshen/use-web-animations#basic-usage <br>
+https://codepen.io/rachelnabors/pen/PNGGaV?editors=0010  <br>
+http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_AP <br>
+
+Live Demo of APP 👇👇👇 <br>
+best-letter.surge.sh
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
